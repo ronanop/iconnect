@@ -3,7 +3,7 @@ export function PrivacyPage() {
     <article className="legal-wrap">
       <h1>Privacy Policy</h1>
       <p className="meta">
-        Effective date: 24 November 2026 · Controller / brand: iConnect Plus
+        Effective date: 25 November 2026 · Controller / brand: iConnect Plus
         (iconnectplus.in) · Contact:{" "}
         <a href="mailto:erp@iconnectplus.in">erp@iconnectplus.in</a>
       </p>
@@ -83,12 +83,49 @@ export function PrivacyPage() {
         <li>Authorities when required by law</li>
       </ul>
 
-      <h2>5. Retention</h2>
+      <h2>5. Retention (what stays after a deletion request)</h2>
       <p>
-        Employment and payroll-related records may be retained as required by
-        your employer&apos;s policy and applicable law even after you stop using
-        the mobile app. App-specific credentials and device tokens can be removed
-        when an approved deletion request is completed.
+        When an approved account / data-deletion request is completed, we remove
+        or disable <strong>app login access</strong> and eligible{" "}
+        <strong>app-associated personal data</strong> held for the Employee App
+        (for example session tokens, device push tokens, and local app
+        preferences we control).
+      </p>
+      <p>
+        The following <strong>employment records typically remain</strong> in
+        your employer&apos;s HR / ERP / payroll systems where required by law,
+        audit, or the employer&apos;s retention policy — even after the mobile
+        app login is deleted:
+      </p>
+      <ul>
+        <li>
+          Core employment identity — employee code, legal name, contact details
+          on the HR master, designation, department, manager, joining /
+          separation dates
+        </li>
+        <li>
+          Attendance, leave, and timesheet history used for payroll and labour
+          compliance
+        </li>
+        <li>
+          Payslips, tax / statutory filings, and related payroll registers
+        </li>
+        <li>
+          Documents and KYC copies your employer must keep (e.g. identity or
+          bank proofs held in HR files)
+        </li>
+        <li>
+          Approval, audit, and security logs needed for investigations or legal
+          hold
+        </li>
+      </ul>
+      <p>
+        Exact retention periods are set by your <strong>employer (HR)</strong>{" "}
+        and applicable local law. Deleting the app from your phone or removing
+        the mobile login does <strong>not</strong> by itself erase those
+        employer employment records. Questions about what your organization
+        keeps: contact your HR team or{" "}
+        <a href="mailto:erp@iconnectplus.in">erp@iconnectplus.in</a>.
       </p>
 
       <h2>6. Your choices</h2>
