@@ -49,7 +49,7 @@ export function DataDeletionPage() {
             employer approval.
           </li>
           <li>
-            Package: <code>com.cache.employeeportal</code> · Domain:{" "}
+            Package: <code>com.iconnectplusin.employeeportal</code> · Domain:{" "}
             <code>iconnectplus.in</code>
           </li>
         </ul>

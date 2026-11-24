@@ -11,7 +11,7 @@ export function PrivacyPage() {
       <p>
         This Privacy Policy explains how the iConnect Plus websites and the
         Employee Self-Service (ESS) mobile application (Android / iOS package{" "}
-        <code>com.cache.employeeportal</code>) collect, use, share, and retain
+        <code>com.iconnectplusin.employeeportal</code>) collect, use, share, and retain
         information. The app is intended for employees and managers of
         organizations that license iConnect Plus.
       </p>
